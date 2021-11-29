@@ -1,0 +1,5 @@
+#!/bin/bash
+eval "./bin/task04 -f ./tests/$1.txt ./tests_output/$1.txt.out ./tests_output/$1_sorted.txt.out"
+
+eval "cat ./tests_output/$1.txt.out"
+eval "cat ./tests_output/$1_sorted.txt.out"

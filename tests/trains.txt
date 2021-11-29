@@ -1,0 +1,5 @@
+train 85 4 67
+train 100 6 24
+train 50 7 24
+train 60 11 25
+train 70 13 98

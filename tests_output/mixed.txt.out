@@ -1,0 +1,18 @@
+Filled container:
+Container contains 16 elements.
+0: It is Plain: speed = 65, distance = 86, fly distance = 8, lifting capacity = 97. Optimal time  = 0.123077
+1: It is Plain: speed = 40, distance = 12, fly distance = 5, lifting capacity = 33. Optimal time  = 0.125
+2: It is Plain: speed = 90, distance = 22, fly distance = 14, lifting capacity = 20. Optimal time  = 0.155556
+3: It is Plain: speed = 58, distance = 83, fly distance = 10, lifting capacity = 47. Optimal time  = 0.172414
+4: It is Plain: speed = 68, distance = 58, fly distance = 16, lifting capacity = 88. Optimal time  = 0.235294
+5: It is Ship Liner: speed = 23, distance = 2, displace = 43. Optimal time = 0.0869565
+6: It is Ship Liner: speed = 27, distance = 14, displace = 93. Optimal time = 0.518519
+7: It is Ship Tug: speed = 9, distance = 2, displace = 38. Optimal time = 0.222222
+8: It is Ship Tug: speed = 48, distance = 11, displace = 57. Optimal time = 0.229167
+9: It is Ship Tanker: speed = 69, distance = 16, displace = 25. Optimal time = 0.231884
+10: It is Ship Tanker: speed = 69, distance = 16, displace = 81. Optimal time = 0.231884
+11: It is Train: speed = 85, distance = 4, cars counter = 67. Optimal time = 0.0470588
+12: It is Train: speed = 100, distance = 6, cars counter = 24. Optimal time = 0.06
+13: It is Train: speed = 50, distance = 7, cars counter = 24. Optimal time = 0.14
+14: It is Train: speed = 60, distance = 11, cars counter = 25. Optimal time = 0.183333
+15: It is Train: speed = 70, distance = 13, cars counter = 98. Optimal time = 0.185714

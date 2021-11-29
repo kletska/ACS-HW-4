@@ -1,0 +1,7 @@
+Sorted container 
+Container contains 5 elements.
+0: It is Train: speed = 85, distance = 4, cars counter = 67. Optimal time = 0.0470588
+1: It is Train: speed = 100, distance = 6, cars counter = 24. Optimal time = 0.06
+2: It is Train: speed = 50, distance = 7, cars counter = 24. Optimal time = 0.14
+3: It is Train: speed = 60, distance = 11, cars counter = 25. Optimal time = 0.183333
+4: It is Train: speed = 70, distance = 13, cars counter = 98. Optimal time = 0.185714

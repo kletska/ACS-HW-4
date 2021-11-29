@@ -1,0 +1,6 @@
+ship liner 23 2 43
+ship liner 27 14 93 
+ship tug 9 2 38  
+ship tug 48 11 57 
+ship tanker 69 16 25 
+ship tanker 69 16 81

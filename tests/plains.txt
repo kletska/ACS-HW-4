@@ -1,0 +1,5 @@
+plain 65 86 8 97
+plain 40 12 5 33
+plain 90 22 14 20
+plain 58 83 10 47
+plain 68 58 16 88

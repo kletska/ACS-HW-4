@@ -1,0 +1,12 @@
+Sorted container:
+Container contains 10 elements.
+0: It is train: speed = 86, distance = 31, cars counter = 75. Optimal time = 0.360465.
+1: It is plain: speed = 83, distance = 59, fly distance = 36, lifting capacity = 53. Optimal time = 0.433735.
+2: It is plain: speed = 97, distance = 57, fly distance = 56, lifting capacity = 79. Optimal time = 0.577320.
+3: It is ship: speed = 75, distance = 57, displace = 30, ship kind = tug. Optimal time = 0.760000.
+4: It is train: speed = 61, distance = 47, cars counter = 7. Optimal time = 0.770492.
+5: It is train: speed = 25, distance = 20, cars counter = 56. Optimal time = 0.800000.
+6: It is plain: speed = 43, distance = 84, fly distance = 41, lifting capacity = 43. Optimal time = 0.953488.
+7: It is ship: speed = 53, distance = 65, displace = 95, ship kind = tanker. Optimal time = 1.226415.
+8: It is ship: speed = 66, distance = 87, displace = 92, ship kind = tug. Optimal time = 1.318182.
+9: It is ship: speed = 1, distance = 85, displace = 83, ship kind = liner. Optimal time = 85.000000.

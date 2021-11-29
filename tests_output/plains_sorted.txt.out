@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: It is plain: speed = 65, distance = 86, fly distance = 8, lifting capacity = 97. Optimal time = 0.123077.
+1: It is plain: speed = 40, distance = 12, fly distance = 5, lifting capacity = 33. Optimal time = 0.125000.
+2: It is plain: speed = 90, distance = 22, fly distance = 14, lifting capacity = 20. Optimal time = 0.155556.
+3: It is plain: speed = 58, distance = 83, fly distance = 10, lifting capacity = 47. Optimal time = 0.172414.
+4: It is plain: speed = 68, distance = 58, fly distance = 16, lifting capacity = 88. Optimal time = 0.235294.

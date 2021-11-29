@@ -1,0 +1,8 @@
+Filled container:
+Container contains 6 elements.
+0: It is Ship Liner: speed = 23, distance = 2, displace = 43. Optimal time = 0.0869565
+1: It is Ship Liner: speed = 27, distance = 14, displace = 93. Optimal time = 0.518519
+2: It is Ship Tug: speed = 9, distance = 2, displace = 38. Optimal time = 0.222222
+3: It is Ship Tug: speed = 48, distance = 11, displace = 57. Optimal time = 0.229167
+4: It is Ship Tanker: speed = 69, distance = 16, displace = 25. Optimal time = 0.231884
+5: It is Ship Tanker: speed = 69, distance = 16, displace = 81. Optimal time = 0.231884
